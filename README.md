@@ -132,3 +132,8 @@ This project demonstrates how **data science and machine learning** can be appli
 * Deploy as a web or hospital decision‑support system
 * Retrain model with newer patient data
 
+
+
+## Other Contributors:
+[Hareem Aqeel](https://github.com/hareem-aqeel)
+
